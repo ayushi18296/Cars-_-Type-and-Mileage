@@ -1,2 +1,2 @@
 # Cars-_-Type-and-Mileage
-KMeans Clustering, Elbow Curve, Decision Tree and AdaBoost.
+KMeans Clustering, Elbow Curve,KNN,Decision Tree and AdaBoost.
